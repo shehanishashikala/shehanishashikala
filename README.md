@@ -5,6 +5,7 @@ Software Quality Assurance Engineer
 -----------------------------------
 
 * ✉️  You can contact me at [shehanishashikalaw@gmail.com](mailto:shehanishashikalaw@gmail.com)
+* Read articles at https://medium.com/@shehanishashikala.
 
 ### Skills
 

@@ -7,8 +7,7 @@ I'm a passionate Software QA Engineer with experience in both manual and automat
 
 🌟 Join me on this journey of exploring innovative testing strategies, and continuously learning in the ever-evolving tech landscape. Let's make technology flawless together! 🚀
 * ✉️  You can contact me at [shehanishashikalaw@gmail.com](mailto:shehanishashikalaw@gmail.com)
-* ![icons8-article-100](https://github.com/user-attachments/assets/0a0eb0fc-18d5-46bb-ae46-5296912e7faf)
-Read Articles at https://medium.com/@shehanishashikala
+* 📰  Read Articles at https://medium.com/@shehanishashikala
 
 -----------------------------------
 

@@ -19,7 +19,9 @@ I'm a passionate Software QA Engineer with experience in both manual and automat
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>  
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>  
-<a href="https://cucumber.io/docs/gherkin/" target="_blank" rel="noreferrer"><img src="https://cucumber.io/images/tools/gherkin-logo.svg" width="36" height="36" alt="Gherkin" /></a>  
+<a href="https://cucumber.io/" target="_blank" rel="noreferrer">
+<img src="https://your-host-link.com/gherkin-icon.svg" width="36" height="36" alt="Gherkin" />
+</a>
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" width="36" height="36" alt="IntelliJ IDEA" /></a>  
 </p>  
 

@@ -6,7 +6,7 @@ Software Quality Assurance Engineer
 I'm a passionate Software QA Engineer with experience in both manual and automation testing. I thrive on ensuring the quality, reliability, and efficiency of software applications.
 
 🌟 Join me on this journey of exploring innovative testing strategies, and continuously learning in the ever-evolving tech landscape. Let's make technology flawless together! 🚀
-* ✉️  You can contact me at [shehanishashikalaw@gmail.com](mailto:shehanishashikalaw@gmail.com)
+* 📧  You can contact me at [shehanishashikalaw@gmail.com](mailto:shehanishashikalaw@gmail.com)
 * 📰  Read Articles at https://medium.com/@shehanishashikala
 
 -----------------------------------
